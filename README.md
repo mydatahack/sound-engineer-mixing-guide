@@ -190,6 +190,21 @@ Benefits: all acoustic instruments, creates a feeling of openness and air.
 
 Caution: tape (analog) hiss. Careful with samples that were taken from vinyl/tape
 
+
+## Random Tips
+
+- It usually sounds best if the EQ is placed before the reverb, not after it, because it has a great effect on the frequency response of the reverb.
+
+- If it sounds muddy, cut some at 250kH. If it sounds honky, cut some at 500Hz.
+
+- Cut if trying to make sounds better, boost if trying to make things sound different.
+
+- You cannot boost somethin that's not there in the first place.
+
+- Use a narrow Q when cutting and a wide Q for boosting.
+
+- It's better to add a small amount at 2 frequencies than a large amount at one.
+
 ### Frequency Chart
 
 <img src="./References/img/frequency_chart_lg.gif"/>
