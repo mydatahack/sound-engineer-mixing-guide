@@ -192,8 +192,8 @@ Caution: tape (analog) hiss. Careful with samples that were taken from vinyl/tap
 
 ### Frequency Chart
 
-<img src="./img/frequency_chart_lg.gif"/>
+<img src="./References/img/frequency_chart_lg.gif"/>
 
 ### Vocal Comp Cheat Sheet
 
-<img src="./img/vocal-comp-cheatsheet.png" />
+<img src="./References/img/vocal-comp-cheatsheet.png" />
